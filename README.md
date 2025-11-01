@@ -1,6 +1,7 @@
 # Powerbi
 
-Power BI Dashboard (fully anonymized) containg Production, Quality, and Workforce (overtime) statistics. This dashboard present team and individual agent's data. In contains 10 pages in the following manner:
+This dashboard contains Production, Quality, and Workforce (Overtime) statistics. It presents both team-level and individual agent data.
+The dashboard includes 10 pages, organized as follows:
 
 Team Overview:
 
